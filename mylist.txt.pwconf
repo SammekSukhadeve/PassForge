@@ -1,0 +1,21 @@
+; PassForge Config — saved from customize mode
+
+[identity]
+@name  p1(janhavi)
+@name  p2(simran)
+
+[interests]
+@string  cricket(Rohit Sharma)
+@string  j1(45)
+
+[transformations]
+global = leet, capitalize, upper
+
+[specs]
+must_have_capital = true
+must_have_symbol = false
+must_have_number = false
+min_length = 6
+max_length = 20
+
+[priority]
