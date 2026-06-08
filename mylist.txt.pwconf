@@ -1,11 +1,11 @@
-; PassForge Config — saved from customize mode
+; PassForge Config â€” saved from customize mode
 
 [identity]
-@name  p1(janhavi)
-@name  p2(simran)
+@name  p1(Rohan)
+@name  p2(Sneha)
 
 [interests]
-@string  cricket(Rohit Sharma)
+@string  cricket(Rohit)
 @string  j1(45)
 
 [transformations]
